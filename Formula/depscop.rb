@@ -1,8 +1,8 @@
 class Depscop < Formula
     desc "Utility to analyze dependencies in your projects"
     homepage "https://github.com/tecnocrata/deps-cop"
-    url "https://github.com/tecnocrata/deps-cop/releases/download/0.1.30/depscop-macos-arm64-v0.1.30.zip"
-    sha256 "85828d8187c01e584c5ec5e102477b6c850e57417be186966c11ebf5263600a3"
+    url "https://github.com/tecnocrata/deps-cop/releases/download/0.1.33/depscop-macos-arm64-v0.1.33.zip"
+    sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
   
     def install
       bin.install "depscop"
